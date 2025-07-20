@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Java Spring Boot projects**
 
-- 💻 My first ecommerce website is [Olajütő és Rétesház](https://www.olajutoesreteshaz.hu)
-
 - 📫 How to reach me **ricsi16555@gmail.com**
 
 - ⚡ Fun fact **I love gardening**
